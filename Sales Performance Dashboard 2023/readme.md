@@ -14,20 +14,24 @@ The **Sales Performance Dashboard** provides a **comprehensive analysis of sales
 
 ---
 
-## Dashboard Preview
+# Dashboard Preview
 
-1 **Total Sales Over Time ** – **Line chart comparing CY vs. PY sales trends.**  
-2 **Min/Max Sales Indicator ** – **Highlights best and worst months for revenue.**  
-3 **Sales Growth Indicator ** – KPI displaying **positive or negative growth from last year.**  
-4 **Profitability Tracker ** – **Bar chart comparing CY vs. PY profits** to detect trends.  
-5 **Customer Trends ** – Shows **how many customers returned or dropped off compared to last year.**  
-6 **Underperforming Sales Alerts ** – **Flags months where CY sales drop below PY sales.**
+This project includes interactive dashboards providing insights into sales performance and customer trends. Key features include:
 
-<p align="center">
-  <img src="Sales/dashboard1.PNG" alt="Dashboard 1" width="600">
-  <br>
-  <img src="Sales/dashboard2.PNG" alt="Dashboard 2" width="600">
-</p>
+1. **Total Sales Over Time** – A **line chart** comparing **current year (CY) vs. previous year (PY) sales trends**.  
+2. **Min/Max Sales Indicator** – Highlights the **best and worst months for revenue**.  
+3. **Sales Growth Indicator** – KPI displaying **positive or negative growth compared to last year**.  
+4. **Profitability Tracker** – A **bar chart** comparing **CY vs. PY profits** to identify trends.  
+5. **Customer Trends** – Tracks **customer retention and drop-offs compared to the previous year**.  
+6. **Underperforming Sales Alerts** – Flags **months where CY sales fall below PY sales**.  
+
+## Dashboard Previews  
+
+### Sales Dashboard  
+![Sales Dashboard](Sales/dashboard1.PNG)  
+
+### Customer Dashboard  
+![Customer Dashboard](Sales/dashboard2.PNG)  
 
 ---
 
