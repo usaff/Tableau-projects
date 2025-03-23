@@ -28,10 +28,10 @@ This project includes interactive dashboards providing insights into sales perfo
 ## Dashboard Previews  
 
 ### Sales Dashboard  
-![Sales Dashboard](Sales/dashboard1.PNG)  
+![Sales Dashboard](dashboard1.PNG)  
 
 ### Customer Dashboard  
-![Customer Dashboard](Sales/dashboard2.PNG)  
+![Customer Dashboard](dashboard2.PNG)  
 
 ---
 
