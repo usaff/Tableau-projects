@@ -29,7 +29,7 @@ This project includes interactive dashboards providing insights into sales perfo
 
 ### Sales Performance Dashboard
 
-<img src="sales_performance_dashboard.png" alt="Sales Performance Dashboard" width="800" height="450">
+<img src="sales_performance_dashboard.png.png" alt="Sales Performance Dashboard" width="800" height="450">
 
 ### Customer Analysis Dashboard
 
