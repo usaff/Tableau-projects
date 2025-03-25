@@ -47,7 +47,7 @@ The **British Airways Review Dashboard** is an interactive analytics tool design
 
 - Built a **calculated field** to allow dynamic metric selection based on user input:
 
-```DAX
+``` DAX
 CASE [Pick a metric]
     WHEN 'Overall Rating' THEN [Rating]
     WHEN 'Cabin Staff Services' THEN [Cabin Staff Service]
@@ -61,6 +61,7 @@ END
 
 # British Airways Review Dashboard
 <img src="British_Airways_Dashboard.PNG" alt="Customer Analysis Dashboard" width="800" height="450">
+
 ## Applied Filters
 
 - **Aircraft**
