@@ -60,7 +60,7 @@ END
 ```
 
 # British Airways Review Dashboard
-
+<img src="British_Airways_Dashboard.png" alt="Customer Analysis Dashboard" width="800" height="450">
 ## Applied Filters
 
 - **Aircraft**
